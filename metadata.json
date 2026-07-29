@@ -1,0 +1,6 @@
+{
+  "name": "小金生日趴包棟名單查詢",
+  "description": "提供姓名快速搜尋與棟別/房號/成員下拉選單，查詢宿舍成員所在棟別、房號、雙人/四人房型及同房名單。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
